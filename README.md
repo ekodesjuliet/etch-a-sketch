@@ -4,7 +4,7 @@
 
 Welcome to my implementation of the classic children's drawing toy. This web application provides users with a digital canvas where they can unleash their creativity and create artworks or doodles. Inspired by the iconic toy, this project serves as both a practical exercise in JavaScript programming and an opportunity to explore functions and event listeners.
 
-You can unleash your creativity [here](https://krig6.github.io/etch-a-sketch/).
+You can unleash your creativity [here](https://ekodesjuliet.github.io/etch-a-sketch/).
 
 ## Visual Overview
 
